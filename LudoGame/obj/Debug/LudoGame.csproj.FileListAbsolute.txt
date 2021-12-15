@@ -1,0 +1,13 @@
+C:\projects\LudoGame\LudoGame\bin\Debug\LudoGame.exe.config
+C:\projects\LudoGame\LudoGame\bin\Debug\LudoGame.exe
+C:\projects\LudoGame\LudoGame\bin\Debug\LudoGame.pdb
+C:\projects\LudoGame\LudoGame\bin\Debug\LudoCL.dll
+C:\projects\LudoGame\LudoGame\bin\Debug\LudoCL.pdb
+C:\projects\LudoGame\LudoGame\obj\Debug\LudoGame.Properties.Resources.resources
+C:\projects\LudoGame\LudoGame\obj\Debug\LudoGame.csproj.GenerateResource.cache
+C:\projects\LudoGame\LudoGame\obj\Debug\LudoGame.csproj.CoreCompileInputs.cache
+C:\projects\LudoGame\LudoGame\obj\Debug\LudoGame.csproj.CopyComplete
+C:\projects\LudoGame\LudoGame\obj\Debug\LudoGame.exe
+C:\projects\LudoGame\LudoGame\obj\Debug\LudoGame.pdb
+C:\projects\LudoGame\LudoGame\obj\Debug\LudoGame.GUI.resources
+C:\projects\LudoGame\LudoGame\obj\Debug\LudoGame.csproj.AssemblyReference.cache

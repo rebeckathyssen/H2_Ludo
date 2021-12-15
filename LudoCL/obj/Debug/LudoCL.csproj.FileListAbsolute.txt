@@ -1,0 +1,6 @@
+C:\projects\LudoGame\LudoCL\bin\Debug\LudoCL.dll
+C:\projects\LudoGame\LudoCL\bin\Debug\LudoCL.pdb
+C:\projects\LudoGame\LudoCL\obj\Debug\LudoCL.csproj.CoreCompileInputs.cache
+C:\projects\LudoGame\LudoCL\obj\Debug\LudoCL.dll
+C:\projects\LudoGame\LudoCL\obj\Debug\LudoCL.pdb
+C:\projects\LudoGame\LudoCL\obj\Debug\LudoCL.csproj.AssemblyReference.cache
